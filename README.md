@@ -1,5 +1,6 @@
 <img src="header.svg" width="800" height="400">
-<div class="title-wrapper">
+
+<!--div class="title-wrapper">
     <h1 class="title">Hi. I'm Jamison.</h1>
     <h1 class="title">Junior Web & Software Developer</h1>
     <h1 class="title">Welcome to my portfolio</h1>
