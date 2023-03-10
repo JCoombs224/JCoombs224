@@ -1,4 +1,4 @@
-<img src="header.svg" width="1000" height="300">
+<img src="header.svg" width="100%" height="300" align="center">
 
 <!--div class="title-wrapper">
     <h1 class="title">Hi. I'm Jamison.</h1>
