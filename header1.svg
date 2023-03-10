@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 400 200" width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 300 200" width="300" height="150" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -37,7 +37,6 @@
 <div class="title-wrapper">
     <h1 class="title">Hi. I'm Jamison.</h1>
     <h1 class="title">Junior Web and Software Developer</h1>
-    <h1 class="title">Welcome to my GitHub</h1>
 </div>
 	    </div>
     </foreignObject>
