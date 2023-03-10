@@ -1,5 +1,5 @@
 <img src="header.svg" width="50%" height="300" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCoombs224&theme=transparent" width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCoombs224&theme=transparent" width="50%">
 
 <!--div class="title-wrapper">
     <h1 class="title">Hi. I'm Jamison.</h1>
