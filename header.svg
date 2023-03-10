@@ -6,7 +6,16 @@
 		.title-wrapper{
 		    max-width: 100%;
 		    align-items: center;
-		    font-family: "Questrial", sans-serif;
+		    font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
 		    letter-spacing: -3px;
 		}
 		.title{
