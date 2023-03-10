@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello my name is Jamison Coombs. Take a look around if you like.
 
 <!--
 **JCoombs224/JCoombs224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCoombs224&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCoombs224&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
