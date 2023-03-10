@@ -1,4 +1,4 @@
-<img src="header.svg" width="50%" height="300" align="left">
+<img src="header1.svg" width="50%" height="300" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCoombs224&theme=transparent" width="40%" height="300">
 
 <!--div class="title-wrapper">
