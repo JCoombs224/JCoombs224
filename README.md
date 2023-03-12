@@ -1,5 +1,5 @@
 <img src="header1.svg" width="50%" height="300" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCoombs224&theme=transparent&exclude_repo=Data-Structures-and-Algorithms,CS421-Translator,CS421-Parser-Project&hide=Java" width="40%" height="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCoombs224&theme=react&exclude_repo=Data-Structures-and-Algorithms,CS421-Translator,CS421-Parser-Project&hide=Java" width="40%" height="300">
 
 <!--div class="title-wrapper">
     <h1 class="title">Hi. I'm Jamison.</h1>
